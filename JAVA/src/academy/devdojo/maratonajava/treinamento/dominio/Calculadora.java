@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.treinamento;
+package academy.devdojo.maratonajava.treinamento.dominio;
 import java.util.Scanner;
 
 public class Calculadora {
